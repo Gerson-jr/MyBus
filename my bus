@@ -1,0 +1,20 @@
+# Aplicativo MyBus
+
+# Apresentação
+
+# Aplicação
+
+# Api de GPS
+# Lê a localizacao dos ônibus
+
+# Lê a localizacao do usuário
+
+# Api de Google Maps
+
+# Api de Data e Hora
+
+# Banco de Dados de Ônibus e linhas
+
+# Usuário escolhe para onde vai
+# Calcula rotas viáveis ao usuário, com base nos pontos de ônibus e se as distâncias e horários,
+# são apropriados ao destino final do usuário

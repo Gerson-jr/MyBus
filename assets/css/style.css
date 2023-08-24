@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; /* Adicionado para centralizar verticalmente */
+}
+
+h1 {
+    color: blue;
+    margin-top: 20px; /* Adicionado para criar espaço entre o topo da página e o título */
+    text-align: center; /* Adicionado para centralizar o texto horizontalmente */
+}
+
+form {
+    margin-top: 20px;
+    text-align: center; /* Adicionado para centralizar o formulário horizontalmente */
+}
+
+input[type="text"] {
+    width: 300px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#rotas-container {
+    margin-top: 20px;
+    text-align: center; /* Adicionado para centralizar o conteúdo do "rotas-container" horizontalmente */
+}
